@@ -8,6 +8,7 @@ open2study-dl
 ## How to use ##
 ```
 $ ./open2study.sh googleUser googlePass courseUrl
+```
 
 ## How it Works ##
 First will login in google with your account
